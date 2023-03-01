@@ -1,0 +1,15 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<jsp:include page="head.jsp"/>
+<jsp:include page="style.jsp"/>
+<body>
+	<div class="container">
+		<jsp:include page="header.jsp"/>
+		<br>
+		<jsp:include page="updateaadhaarcontent.jsp"/>
+		<br>
+		<jsp:include page="footer.jsp"/>
+	</div>
+</body>
